@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SIP-calculator/static/css/main.0ee9067f.css",
+    "main.js": "/SIP-calculator/static/js/main.03caf8e6.js",
+    "static/js/787.4beae3d1.chunk.js": "/SIP-calculator/static/js/787.4beae3d1.chunk.js",
+    "index.html": "/SIP-calculator/index.html",
+    "main.0ee9067f.css.map": "/SIP-calculator/static/css/main.0ee9067f.css.map",
+    "main.03caf8e6.js.map": "/SIP-calculator/static/js/main.03caf8e6.js.map",
+    "787.4beae3d1.chunk.js.map": "/SIP-calculator/static/js/787.4beae3d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee9067f.css",
+    "static/js/main.03caf8e6.js"
+  ]
+}
