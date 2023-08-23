@@ -20,7 +20,10 @@ function App() {
   return (
     <div className="App">
       <h1>SIP Calculator</h1>
-      <h2>  <i>Calculate your investment Amount</i></h2>
+      <h2>
+        {" "}
+        <i>Calculate your Investment Amount</i>
+      </h2>
       <div>
         <label>Monthly Investement:</label>
         <input
